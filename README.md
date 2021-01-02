@@ -7,4 +7,4 @@ This project uses tiny LED strips which can be found here:
 
 ## YouTube Video
 
-[![LED Cube](http://img.youtube.com/vi/gbqNV-nmTS4 /0.jpg)](https://www.youtube.com/watch?v=gbqNV-nmTS4)
+[![LED Cube](http://img.youtube.com/vi/gbqNV-nmTS4/0.jpg)](https://www.youtube.com/watch?v=gbqNV-nmTS4)
