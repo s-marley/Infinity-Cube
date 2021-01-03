@@ -8,3 +8,10 @@ This project uses tiny LED strips which can be found here:
 ## YouTube Video
 
 [![LED Cube](http://img.youtube.com/vi/gbqNV-nmTS4/0.jpg)](https://www.youtube.com/watch?v=gbqNV-nmTS4)
+
+## Wiring and connections
+The wiring for the project is very simple and is shown below. The resistor and capacitor are recommended but optional.
+
+![Schematic](Schematic_bb.png)
+The diagram below shows how the segments of the cube are connected together. Pink circles are the segment numbers. Green arrows show where the data line has to be run back underneath a strip. Wiring enters the cube through the rear-left.
+![Connections](Connections.png)
